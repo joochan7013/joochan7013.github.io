@@ -365,7 +365,7 @@ font-family: 'Playfair Display', serif;
         max-width: 250px;
         padding-left:350px;
         padding-right:20px; 
-        padding-top: 20px;
+        padding-top: 0px;
         margin:0 auto;
         list-style-type: none;
         width: auto;
@@ -456,7 +456,7 @@ font-family: 'Playfair Display', serif;
         width: 170px;
         height: auto;
         padding-top: 10px;
-        padding-bottom: 150px;
+        padding-bottom: 250px;
     }
 
     span.x {
