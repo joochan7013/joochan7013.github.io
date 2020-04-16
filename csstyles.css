@@ -322,7 +322,7 @@ font-family: 'Playfair Display', serif;
 
     img#logo {
         width: 120px;
-        height: 20px;
+        height: 70px;
         padding-left: 80px;
         vertical-align: middle;
         position: relative;
@@ -363,7 +363,7 @@ font-family: 'Playfair Display', serif;
     .side{
         position: fixed;
         max-width: 250px;
-        padding-left:350px;
+        padding-left:200px;
         padding-right:20px; 
         padding-top: 0;
         margin:0 auto;
@@ -401,8 +401,8 @@ font-family: 'Playfair Display', serif;
 
     hr.Line { 
         display: block;
-        padding-top: 0;
-        margin-bottom: 150px;
+        padding-top: 5px;
+        margin-bottom: 20px;
         margin-left: 20px;
         margin-right: 20px;
         border-style: solid;
@@ -428,7 +428,7 @@ font-family: 'Playfair Display', serif;
         font-family: 'Playfair Display', serif;
         margin-left: 20px;
         padding-top: 50px;
-        padding-bottom: 0px;
+        padding-bottom: 5px;
     }
 
     div.images {
@@ -446,7 +446,6 @@ font-family: 'Playfair Display', serif;
     }
 
     img {
-        padding-top: 0;
         width: 170px;
         height: 200px;
     }
@@ -455,7 +454,7 @@ font-family: 'Playfair Display', serif;
         width: 170px;
         height: auto;
         padding-top: 10px;
-        padding-bottom: 500px;
+        padding-bottom: 350px;
     }
 
     span.x {
