@@ -395,15 +395,14 @@ font-family: 'Playfair Display', serif;
 
     div.title  {
         width: 414px;
-        padding-top: 50px;
         margin-left: auto;
         margin-right: auto;
     }
 
     hr.Line { 
         display: block;
-        margin-top: 0;
-        margin-bottom: 50px;
+        padding-top: 0;
+        margin-bottom: 150px;
         margin-left: 20px;
         margin-right: 20px;
         border-style: solid;
@@ -428,8 +427,8 @@ font-family: 'Playfair Display', serif;
         font-style: bold;
         font-family: 'Playfair Display', serif;
         margin-left: 20px;
-        padding-top: 10px;
-        padding-bottom: 10px;
+        padding-top: 50px;
+        padding-bottom: 0px;
     }
 
     div.images {
@@ -447,7 +446,7 @@ font-family: 'Playfair Display', serif;
     }
 
     img {
-        padding-top: 150px;
+        padding-top: 0;
         width: 170px;
         height: 200px;
     }
@@ -489,6 +488,7 @@ font-family: 'Playfair Display', serif;
         color: black;
         text-align: center;
         margin: 0px;
+        padding-bottom:50px;
     }
 
     span.Price {
