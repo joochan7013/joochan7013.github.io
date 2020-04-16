@@ -403,7 +403,7 @@ font-family: 'Playfair Display', serif;
         display: block;
         padding-top: 5px;
         margin-bottom: 20px;
-        margin-left: 20px;
+        margin-left: 15px;
         margin-right: 20px;
         border-style: solid;
         border-width: .5px;
@@ -454,7 +454,7 @@ font-family: 'Playfair Display', serif;
         width: 170px;
         height: auto;
         padding-top: 10px;
-        padding-bottom: 350px;
+        padding-bottom: 45px;
     }
 
     span.x {
@@ -464,7 +464,7 @@ font-family: 'Playfair Display', serif;
     p.menuTitle {
         font-family: 'Playfair Display', serif;
         color: black;
-        font-size: 16pt;
+        font-size: 14pt;
         font-weight: bold;
         text-align: center;
         margin: 0px;
@@ -472,7 +472,7 @@ font-family: 'Playfair Display', serif;
     p.description {
         font-family: 'Playfair Display', serif;
         color: black;
-        font-size: 12pt;
+        font-size: 10pt;
         text-align: center;
         margin: 0px;
     }
@@ -492,12 +492,12 @@ font-family: 'Playfair Display', serif;
 
     span.Price {
         font-family: 'Playfair Display', serif;
-        font-size: 14pt;
+        font-size: 12pt;
     }
 
     span.Price2 {
         font-family: 'Playfair Display', serif;
-        font-size: 12pt;
+        font-size: 10pt;
         position: relative;
         top: -.2em;
     }
