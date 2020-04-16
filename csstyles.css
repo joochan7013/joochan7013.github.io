@@ -153,6 +153,7 @@
     }
 
     img {
+
         min-width: 200px;
         width: 250px;
         height: 200px;
@@ -329,7 +330,7 @@ font-family: 'Playfair Display', serif;
     }
 
     div.navbar {
-
+        display: none;
         overflow: hidden;
         float: right;
     }
@@ -365,7 +366,7 @@ font-family: 'Playfair Display', serif;
         max-width: 250px;
         padding-left:10px;
         padding-right:20px; 
-        padding-top: 165px;
+        padding-top: 80px;
         margin:0 auto;
         list-style-type: none;
         width: auto;
@@ -395,7 +396,7 @@ font-family: 'Playfair Display', serif;
 
     div.title  {
         width: 414px;
-        padding-top: 10px;
+        padding-top: 40px;
         margin-left: auto;
         margin-right: auto;
     }
@@ -432,7 +433,6 @@ font-family: 'Playfair Display', serif;
         padding-bottom: 10px;
     }
 
-    /** Images **/
     div.images {
         width: 180px;
         height: 400px;
@@ -448,12 +448,11 @@ font-family: 'Playfair Display', serif;
     }
 
     img {
-
+        padding-top: 50px;
         width: 170px;
         height: 200px;
     }
 
-    /** Product Title **/
     div.menuName {
         width: 170px;
         height: auto;
@@ -505,7 +504,6 @@ font-family: 'Playfair Display', serif;
         top: -.2em;
     }
 
-       /** Footer **/
        div.footer {
         background: #fcf8e8;
         border-top: #d5d8db solid 1px;
@@ -538,7 +536,6 @@ font-family: 'Playfair Display', serif;
         margin: 0;
     }
 
-/*--- Contact---*/
 
 div.input {
     background-color: #fcf8e8;
@@ -588,4 +585,5 @@ font-family: 'Playfair Display', serif;
     width: 500px;
 }
 }
+
 
