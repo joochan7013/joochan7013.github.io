@@ -1,5 +1,4 @@
 
-
 @media screen and (min-width:1000px) {
     
     body {
@@ -294,7 +293,6 @@ font-family: 'Playfair Display', serif;
     width: 500px;
 }
 }
-
 @media screen and (max-width: 414px) {
 
 
@@ -316,7 +314,7 @@ font-family: 'Playfair Display', serif;
 
     div#banner {
         width: 414px;
-        line-height: 80px;
+        line-height: 60px;
         background-color:rgba(255, 238, 0, 0.808);
         position: relative;
         
@@ -324,7 +322,7 @@ font-family: 'Playfair Display', serif;
 
     img#logo {
         width: 120px;
-        height: 75px;
+        height: 55px;
         padding-left: 80px;
         vertical-align: middle;
         position: relative;
@@ -365,9 +363,9 @@ font-family: 'Playfair Display', serif;
     .side{
         position: fixed;
         max-width: 250px;
-        padding-left:50px;
+        padding-left:200px;
         padding-right:20px; 
-        padding-top: 60px;
+        padding-top: 80px;
         margin:0 auto;
         list-style-type: none;
         width: auto;
@@ -397,7 +395,7 @@ font-family: 'Playfair Display', serif;
 
     div.title  {
         width: 414px;
-        padding-top: 5px;
+        padding-top: 40px;
         margin-left: auto;
         margin-right: auto;
     }
@@ -449,7 +447,7 @@ font-family: 'Playfair Display', serif;
     }
 
     img {
-        padding-top: 70px;
+
         width: 170px;
         height: 200px;
     }
@@ -458,7 +456,7 @@ font-family: 'Playfair Display', serif;
         width: 170px;
         height: auto;
         padding-top: 10px;
-        padding-bottom: 50px;
+        padding-bottom: 80px;
     }
 
     span.x {
@@ -586,5 +584,4 @@ font-family: 'Playfair Display', serif;
     width: 500px;
 }
 }
-
 
